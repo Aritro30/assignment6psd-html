@@ -1,0 +1,206 @@
+ body{
+   margin: 0;
+    padding: 0;
+    font-size: 18px;
+    color: #424c50;
+}
+img
+{max-width: 100%;display: block;/* padding-bottom: 49px; */margin-bottom: -20px;}
+.container
+{width: 924px;margin: 0 auto;overflow: hidden;}
+.pics{
+    width: 924px;
+    overflow: hidden;
+    text-align: -webkit-auto;
+    margin: 0 auto;
+}
+.pics .pic1{
+    float: left;
+    width: 33.333%;
+    /* margin: 0; */
+    /* padding-right: 10px; */
+}
+.pics .pic2{}
+.pics .pic1 img{
+    max-width: 100%;
+    width: 100%;
+    display: block;
+    margin-top: 150px;
+}
+.pics .pic1 h3{}
+.pics .pic1 p{
+    font-size: small;
+    text-align: left;
+}
+.pics .pic2 img{}
+.pics .pic2 h3{}
+.pics .pic2 p{}
+.bottom{
+    
+background-color: black;
+    
+color: white;
+    
+width: 1500px;
+    
+/* height: 90px; */
+ }
+ .copyright{
+         /* height: 90px; */
+         /* margin-top: auto; */
+         }
+ .copyright p
+ {
+    
+margin-left: 180px;
+    
+/* margin-top: 42px; */
+    
+/* margin-bottom: 42px; */
+    
+padding-top: 42px;
+    
+padding-bottom: 42px;
+ }
+.ima{
+    /* overflow: hidden; */
+    width: 1500px;
+    /* margin: 0 auto; */
+    /* margin: 0; */
+    background: #efefef;
+    /* padding-right: 1px; */
+    /* margin-left: -422px; */
+}
+.ima img{
+    width: 1000px;
+    max-width: 100%;
+    /* margin: 0 auto; */
+}
+.header-section
+{
+
+background: #e6e6e6;
+
+width: 1500px;
+}
+
+.logo{
+    width: 20%;
+    max-width: 100%;
+    float: left;
+    margin-top: 5px;
+}
+.logo img
+{
+
+max-width: 100%;
+    display: block;
+}
+nav{width: 80%;
+    float: left;}
+nav ul{margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+nav ul li{list-style: none;
+    /* float: left; */
+    display: inline-block;}
+nav ul li a{text-decoration: none;
+    color: #424c50;
+    text-transform: uppercase;
+    padding: 10px;
+    display: block;}
+nav ul li a:hover{}
+
+ .logo-section{
+    width: 924px;
+    overflow: hidden;
+    background: #ffffff;
+    margin: 0 auto;
+}
+ .logo-section ul{}
+ .logo-section ul li{
+    list-style: none;
+    width: 25%;
+    float: left;
+    /* margin: 0px; */
+    /* text-align: center; */
+}
+ .logo-section ul li img{
+    max-width: 100%;
+    display: block;
+    /* margin-left: 90px; */
+    /* width: 71%; */
+    margin: 0 auto;
+}
+.logo-section ul li h3{
+    /* margin-left: 90px; */
+    display: block;
+    /* margin: 0 auto; */
+    margin-left: 50px;
+}
+.logo-section ul li p{font-size: small;text-align: center;/* margin: 0 68px; */}
+.banner-section{
+    background-image: url(../images/image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1500px;
+    }
+.banner1{text-align: center;
+    padding: 160px 0;}
+.banner1 h1{
+    font-size: 50px;
+    color: white;
+    text-transform: none;
+    }
+.banner1 p{
+    font-size: 20px;
+    text-transform: capitalize;
+    margin: 5px 0 10px;
+    color: #e6e6e6;
+    }
+.banner1 a{
+    text-transform: capitalize;
+    background: #45b3c5;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+     body{
+   margin: 0;
+    padding: 0;
+    font-size: 18px;
+    color: #424c50;
+}
+
+ .logo-section{}
+
+.pics{}
+.pics .pic1{}
+.pics .pic1 img{}
+.pics .pic1 h3{}
+.pics .pic1 p{}
+
+ .logo-section{}
+.bottom{
+    height: 5%;
+    
+    color: black;
+ }
+ .copyright{
+        width: 50%;
+    float: left;
+   text-align: center;
+ }
+ .copyright p
+ {    
+    margin: 0;
+ }
+
+
+ .logo-section{}
+ 
+ .logo-section{}
